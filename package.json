@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "My personal website",
   "main": "src/index.js",
-  "homepage": "https://phani051.github.io/PersonalWebsite",
+  "homepage": "https://srujana0605.github.io/MyCV",
   "scripts": {
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts build",
@@ -15,12 +15,12 @@
   "author": "phani051",
   "license": "ISC",
   "dependencies": {
-    "gh-pages": "^4.0.0",
     "react": "16.8.6",
     "react-dom": "16.8.6",
     "react-scripts": "^2.1.3"
   },
   "devDependencies": {
+    "gh-pages": "^6.0.0",
     "typescript": "3.3.3"
   },
   "browserslist": [
